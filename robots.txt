@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://e2etest.globalcorehub.com/sitemap.xml

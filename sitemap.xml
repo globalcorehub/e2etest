@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://e2etest.globalcorehub.com/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/json-formatter-validator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/base64-encoder-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/regex-tester-debugger</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/jwt-token-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/hash-generator-md5-sha256</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/uuid-guid-v4-generator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/url-encoder-decoder-parser</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/text-diff-checker-compare</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/json-formatter-validator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/base64-encoder-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/regex-tester-debugger</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/jwt-token-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/zh/text-diff-checker-compare</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/json-formatter-validator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/base64-encoder-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/regex-tester-debugger</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/jwt-token-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/es/text-diff-checker-compare</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/json-formatter-validator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/base64-encoder-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/regex-tester-debugger</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/jwt-token-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/pt/text-diff-checker-compare</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/json-formatter-validator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/base64-encoder-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/regex-tester-debugger</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/jwt-token-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/de/text-diff-checker-compare</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/json-formatter-validator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/base64-encoder-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/regex-tester-debugger</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/jwt-token-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/fr/text-diff-checker-compare</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/json-formatter-validator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/json-formatter-validator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/json-formatter-validator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/base64-encoder-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/base64-encoder-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/base64-encoder-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/regex-tester-debugger</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/regex-tester-debugger"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/regex-tester-debugger"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/jwt-token-decoder</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/jwt-token-decoder"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/jwt-token-decoder"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/hash-generator-md5-sha256"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/hash-generator-md5-sha256"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/unix-timestamp-epoch-converter"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/unix-timestamp-epoch-converter"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/uuid-guid-v4-generator"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/uuid-guid-v4-generator"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/url-encoder-decoder-parser"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/url-encoder-decoder-parser"/>
+  </url>
+  <url>
+    <loc>https://e2etest.globalcorehub.com/ja/text-diff-checker-compare</loc>
+    <lastmod>2026-09-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="zh-CN" href="https://e2etest.globalcorehub.com/zh/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://e2etest.globalcorehub.com/es/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="pt" href="https://e2etest.globalcorehub.com/pt/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://e2etest.globalcorehub.com/de/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://e2etest.globalcorehub.com/fr/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://e2etest.globalcorehub.com/ja/text-diff-checker-compare"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://e2etest.globalcorehub.com/text-diff-checker-compare"/>
+  </url>
+</urlset>
